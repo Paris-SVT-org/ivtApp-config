@@ -11,5 +11,4 @@
     <enterpriseApplication contextRoot="/ivt" id="ivtApp" location="${server.config.dir}/apps/ivtApp.ear">
     </enterpriseApplication>
 
-    
 </server>
